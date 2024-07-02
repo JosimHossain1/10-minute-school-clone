@@ -13,7 +13,17 @@ Technologies :
 
 ## If you want to use the code
 
-  Clone this repo
-   - Go to the terminal and write:  git clone
-   - use this command: npm install
-   - use the command for run: npm run dev
+  First Open the terminal
+  ```bash
+    git clone https://github.com/JosimHossain1/10-minute-school-clone-by-josim-hossain.git
+```
+
+ Install all the dependencies
+ ```bash
+ npm install
+```
+
+run the porject
+  ```bash
+ npm run dev
+```
